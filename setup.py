@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-your-username",
-    version="0.0.3",
+    name="hellpack",
+    version="0.0.4",
     author="Example Author",
     author_email="author@example.com",
     description="A small example package",

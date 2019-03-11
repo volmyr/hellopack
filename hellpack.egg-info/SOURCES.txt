@@ -1,0 +1,8 @@
+README.md
+setup.py
+hellpack/__init__.py
+hellpack/hello.py
+hellpack.egg-info/PKG-INFO
+hellpack.egg-info/SOURCES.txt
+hellpack.egg-info/dependency_links.txt
+hellpack.egg-info/top_level.txt
