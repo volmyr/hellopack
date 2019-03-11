@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="hellpack",
-    version="0.0.4",
+    version="0.0.5",
     author="Example Author",
     author_email="author@example.com",
     description="A small example package",
